@@ -1,5 +1,5 @@
 
-# VST Plugin Security: Why you, the Digital Musician, should care
+# VST Plugin Security- Why you, the Digital Musician, should care
 
 VSTs (Virtual Studio Technology) are practically synonymous with the world of audio plug-ins at this point in history. Developed by Steinberg, and premiering alongside their flagship Cubase DAW in 1996, VSTs were the first audio plugin framework to become widely accepted and supported by digital audio workstations. They allow users to add virtual instruments, effects, and other audio processing tools to their DAWs, enabling a more customizable and versatile production process. Today, VSTs are used by musicians, sound designers, and audio engineers across a variety of genres and industries, making them an essential tool for modern audio production.
 
