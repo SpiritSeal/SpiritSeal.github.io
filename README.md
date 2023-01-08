@@ -4,6 +4,8 @@ permalink: "/about/"
 layout: page
 ---
 
+> Site will be moving to [musitechblog.github.io](musitechblog.github.io) in May.
+
 ## About Me
 
 I'm a high school nerd who is passionate about all things Music and Technology, especially at the intersection of the two.
