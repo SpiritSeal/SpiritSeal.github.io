@@ -1,5 +1,5 @@
 ---
-title: "Welcome to "A Musitech Blog"!
+title: "Welcome to \"A Musitech Blog\"!"
 permalink: "/musitech-welcome"
 layout: page
 ---
