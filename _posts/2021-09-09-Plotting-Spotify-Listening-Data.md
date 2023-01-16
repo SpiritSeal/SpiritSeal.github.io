@@ -5,7 +5,7 @@ layout: post
 ---
 
 
-The was the output of an applied Statistics project I was assigned during AP Statistics where we were tasked with finding some data in the wild and using software to extract insights from the raw numbers. In this post, I'll go over the steps I took to extract my Spotify listening data and create meaningful visualizations from it in R.
+This post was the output of an applied Stats project I was assigned during my High School AP Statistics where we were tasked with finding some data in the wild and using software to extract insights from the raw numbers. In this post, I'll go over the steps I took to extract my Spotify listening data and create meaningful visualizations from it in R.
 
 
 ## Personal Spotify Trends by Saketh Reddy
