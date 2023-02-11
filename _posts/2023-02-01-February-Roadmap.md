@@ -12,7 +12,7 @@ Feel free to leave any feedback or suggestions ~~in the comments below~~ [via em
 ## Planned Posts
 
 - [ ] 2/12: <a href="javascript:alert('Post not out yet')">Repairing My School's Old Piano</a>
-- [ ] 2/19: <a href="javascript:alert('Post not out yet')">Methodology for Teaching Collaborative Musical Improvisation to Classically-Trained Musicians</a>
+- [ ] 2/25: <a href="javascript:alert('Post not out yet')">Methodology for Teaching Collaborative Musical Improvisation to Classically-Trained Musicians</a>
 
 ## Other misc. updates to the site that I want to implement/ have planned:
 
