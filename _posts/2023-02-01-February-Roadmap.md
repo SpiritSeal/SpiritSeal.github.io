@@ -14,9 +14,9 @@ Hello everyone! Over the last month, I've been working on building a backlog so 
 
 ## Other misc. updates to the site that I want to implement/ have planned:
 
-[ ] Comments section
-[ ] The cool "on hover" footnotes like what the [MIT Blog](https://mitadmissions.org/blogs/entry/we-are-reinstating-our-sat-act-requirement-for-future-admissions-cycles/#:~:text=I%20explain%20more%E2%81%A001%20about%20how) has
-[ ] A way to subscribe to the blog
+- [ ] Comments section
+- [ ] The cool "on hover" footnotes like what the [MIT Blog](https://mitadmissions.org/blogs/entry/we-are-reinstating-our-sat-act-requirement-for-future-admissions-cycles/#:~:text=I%20explain%20more%E2%81%A001%20about%20how) has
+- [ ] A way to subscribe to the blog
 
 ## Other notes:
 Of course, if I come across something else I find and want to talk about, I'll likely post them or add them to my todo list. But this is what I have planned so far. I hope you all enjoy!
