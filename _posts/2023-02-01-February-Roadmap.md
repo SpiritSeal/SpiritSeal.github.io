@@ -1,6 +1,6 @@
 ---
 title:  "February Roadmap/ Update"
-permalink: "/roadmap-feb2023 /"
+permalink: "/roadmap-feb2023/"
 layout: post
 ---
 
