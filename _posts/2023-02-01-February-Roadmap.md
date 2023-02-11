@@ -9,8 +9,8 @@ Hello everyone! Over the last month, I've been working on building a backlog so 
 
 ## Planned Posts:
 
-[ ] 2/12: <a href="javascript:alert('Post will be published on 2/12/23')">Repairing My School's Old Piano</a>
-[ ] 2/25: <a href="javascript:alert('Post will be published on 2/25/23')">My Methodology for Teaching Collaborative Musical Improvisation to Classically Trained Musicians</a>
+- [ ] 2/12: <a href="javascript:alert('Post will be published on 2/12/23')">Repairing My School's Old Piano</a>
+- [ ] 2/25: <a href="javascript:alert('Post will be published on 2/25/23')">My Methodology for Teaching Collaborative Musical Improvisation to Classically Trained Musicians</a>
 
 ## Other misc. updates to the site that I want to implement/ have planned:
 
