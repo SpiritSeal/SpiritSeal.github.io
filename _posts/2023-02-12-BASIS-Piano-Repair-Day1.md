@@ -19,7 +19,6 @@ So without further ado, let's begin!
 ## Step 1: Deconstruction
 
 ![Parts of a Piano](/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/partsOfPiano.jpg)
-
 *Labelled external parts of an upright piano, courtesy of [pianoguidelessons.com](https://pianoguidelessons.com/parts-of-the-piano/)*
 
 We headed to the Drama room after school last Thursday. After unlocking and uncovering the piano, we took off the **Top Front Panel**, **Fallboard**, and **Knee Panel** so that we could directly access the internal mechanisms of the instrument. We then moved the removed components onto a ground cloth so that they wouldn't get scuffed.
@@ -28,7 +27,7 @@ We headed to the Drama room after school last Thursday. After unlocking and unco
 
 After taking off these external covers, our next step was to take care of the layer of dust that had been building over the last several months. Using an electronic air duster, I air hosed down the keys, strings to clean it up a bit before we moved on to the next steps.
 
-![/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/e-air_duster.jpg]
+![Electric Air Duster](/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/e-air_duster.jpg)
 *Our Dusty Electronic Air Duster. VROOM!*
 
 ## Step 3: Easy Repairs
@@ -52,7 +51,7 @@ On higher end pianos, like this one, the middle pedals have the Sostenuto effect
 
 ## Step 4: Less Easy Repairs
 
-Now onto the main issue we came into the session wanting to fix: the broken Eb key. 
+Now onto the main issue we came into the session wanting to fix: the broken Eb key.
 
 Before we opened it up, we thought that something might have happened to the string and that would potentially have to call in a professional to deal with it. However, once we looked inside, the situation was a lot better than we thought it would be, though not quite as easy or straightforward as fixing the Sostenuto pedal rod.
 
@@ -69,6 +68,4 @@ We mostly focused on the low hanging fruit this week: repairs that were easy for
 
 Next week, we're planning on properly taking the hammers out of the instrument so that we can more easily get to and try to fix the broken note. And outside of that, the Tuning Hammers that my teacher ordered should be arriving around that time as well, so we'll also be retuning it as soon as we are done with these fixes.
 
----
-
-### Thank you for reading through this! Feel free to drop your questions/ comments/ concerns in the discussion below, and I'll do my best to get back to you!
+[^1]: In other words, it's a really, really nice piano-- easily the best I've ever been able to play on a semi-regular basis. Here's a recording of one I found on YouTube if you want to take a listen: https://youtu.be/Ke3tNM1w8ug
