@@ -14,7 +14,7 @@ Hello everyone! Over the last month, I've been working on building a backlog so 
 
 ## Other misc. updates to the site that I want to implement/ have planned:
 
-- [ ] Comments section
+- [X] Comments section: <font color ="#e53935">Giscus</font>
 - [ ] The cool "on hover" footnotes like what the [MIT Blog](https://mitadmissions.org/blogs/entry/we-are-reinstating-our-sat-act-requirement-for-future-admissions-cycles/) has
 - [ ] A way to subscribe to the blog
 
@@ -22,7 +22,7 @@ Hello everyone! Over the last month, I've been working on building a backlog so 
 
 Of course, if I come across something else I find and want to talk about, I'll likely post them or add them to my todo list. But this is what I have planned so far. I hope you all enjoy!
 
-Feel free to leave any feedback or suggestions ~~in the comments below~~ [via email](mailto:yssaketh@gmail.com) (until I can set up a proper comments section <sub><sup>maybe I should make a post on that</sup></sub>).
+Feel free to leave any feedback or suggestions ~~in the comments below~~ [via email](mailto:yssaketh@gmail.com) (until I can set up a proper comments section <sub><sup>~~maybe I should make a post on that~~ I just set up the GitHub Discussions-based [giscus](https://giscus.app/). It was extremely easy and quick to set up, so I don't feel like it would really warrant it's own post</sup></sub>).
 
 I'm fairly new to blogging, so I'm always looking to improve my content and this site. Thanks for reading!
 
