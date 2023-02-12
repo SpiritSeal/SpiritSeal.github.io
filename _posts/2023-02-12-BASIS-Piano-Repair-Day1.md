@@ -1,6 +1,6 @@
 ---
 title: "BASIS Piano Repair and Tuning: Day 1"
-date: 2/12/23
+date: 23/02/12
 description: Repairing and learning how to tune my school's piano.
 permalink: "/basis-piano-repair-1/"
 ---
@@ -18,7 +18,7 @@ So without further ado, let's begin!
 
 ## Step 1: Deconstruction
 
-[Parts of a Piano](/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/partsOfPiano.jpg)
+![Parts of a Piano](/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/partsOfPiano.jpg)
 
 *Labelled external parts of an upright piano, courtesy of [pianoguidelessons.com](https://pianoguidelessons.com/parts-of-the-piano/)*
 
