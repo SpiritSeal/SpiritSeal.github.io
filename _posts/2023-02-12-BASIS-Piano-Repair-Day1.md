@@ -18,7 +18,8 @@ So without further ado, let's begin!
 
 ## Step 1: Deconstruction
 
-![/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/partsOfPiano.jpg]
+[Parts of a Piano](/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/partsOfPiano.jpg)
+
 *Labelled external parts of an upright piano, courtesy of [pianoguidelessons.com](https://pianoguidelessons.com/parts-of-the-piano/)*
 
 We headed to the Drama room after school last Thursday. After unlocking and uncovering the piano, we took off the **Top Front Panel**, **Fallboard**, and **Knee Panel** so that we could directly access the internal mechanisms of the instrument. We then moved the removed components onto a ground cloth so that they wouldn't get scuffed.
