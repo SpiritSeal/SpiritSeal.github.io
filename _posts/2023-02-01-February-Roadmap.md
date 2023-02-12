@@ -14,7 +14,7 @@ Hello everyone! Over the last month, I've been working on building a backlog so 
 
 ## Other misc. updates to the site that I want to implement/ have planned:
 
-- [X] Comments section: <font color ="#e53935">Giscus</font>
+- [X] Comments section<font color ="#ef5350">: Giscus</font>
 - [ ] The cool "on hover" footnotes like what the [MIT Blog](https://mitadmissions.org/blogs/entry/we-are-reinstating-our-sat-act-requirement-for-future-admissions-cycles/) has
 - [ ] A way to subscribe to the blog
 
