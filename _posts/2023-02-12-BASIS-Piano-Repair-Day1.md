@@ -5,10 +5,9 @@ description: Repairing and learning how to tune my school's piano.
 permalink: "/basis-piano-repair-1/"
 ---
 
-Hello everyone! Over the last six-ish years or so, I've been discovering my high school's seemingly ever-expanding volume of musical instruments and resources. Among these, is our small school's upright piano, currently located in the drama room (Room 115). It's a Steinway Upright Essex with beautiful, delicate-sounding highs accompanied by crisp, resonant bass and mids.[^1]
+Hello everyone! Over the last six-ish years or so, I've been discovering my high school's seemingly ever-expanding volume of musical instruments and resources. Among these, is our small school's upright piano, currently located in the drama room (Room 115).
 
-
-If you are a pianist at BASIS Scottsdale, I highly recommend checking it out at some point in the future if you haven't already.
+It's a Steinway Upright Essex with beautiful, delicate-sounding highs accompanied by crisp, resonant bass and mids. If you are a pianist at BASIS Scottsdale, I highly recommend checking it out at some point in the future if you haven't already.[^1]
 
 Unfortunately, with our school's piano teacher having left almost two years ago, it's been left in a bit of a state of disrepair. Outside of being generally dusty and out of tune, the instrument also featured a broken Eb4 key and disconnected sostenuto pedal.
 
