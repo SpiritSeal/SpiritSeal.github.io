@@ -25,10 +25,10 @@ We headed to the Drama room after school last Thursday. After unlocking and unco
 
 ### Step 2: Dusting
 
-After taking off these external covers, our next step was to take care of the layer of dust that had been building over the last several months. Using an electronic air duster, I air hosed down the keys, strings to clean it up a bit before we moved on to the next steps.
+After taking off these external covers, our next step was to take care of the layer of dust that had been building over the last several months. Using an electric air duster, I air hosed down the keys, strings to clean it up a bit before we moved on to the next steps.
 
 ![Electric Air Duster](/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/e-air_duster.jpg)
-*Our Dusty Electronic Air Duster. VROOM!*
+*Our Dusty Electric Air Duster. VROOM!*
 
 ## Step 3: Easy Repairs
 
