@@ -1,5 +1,5 @@
 ---
-Title: BASIS Piano Repair and Tuning: Day 1
+Title: "BASIS Piano Repair and Tuning: Day 1"
 Date: 2/4/23
 Description: Repairing and learning how to tune my school's piano.
 permalink: "/basis-piano-repair-1/"
@@ -18,7 +18,7 @@ So without further ado, let's begin!
 
 ## Step 1: Deconstruction
 
-![[/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/partsOfPiano.jpg]]
+![/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/partsOfPiano.jpg]
 *Labelled external parts of an upright piano, courtesy of [pianoguidelessons.com](https://pianoguidelessons.com/parts-of-the-piano/)*
 
 We headed to the Drama room after school last Thursday. After unlocking and uncovering the piano, we took off the **Top Front Panel**, **Fallboard**, and **Knee Panel** so that we could directly access the internal mechanisms of the instrument. We then moved the removed components onto a ground cloth so that they wouldn't get scuffed.
@@ -27,26 +27,26 @@ We headed to the Drama room after school last Thursday. After unlocking and unco
 
 After taking off these external covers, our next step was to take care of the layer of dust that had been building over the last several months. Using an electronic air duster, I air hosed down the keys, strings to clean it up a bit before we moved on to the next steps.
 
-![[/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/e-air_duster.jpg]]
+![/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/e-air_duster.jpg]
 *Our Dusty Electronic Air Duster. VROOM!*
 
 ## Step 3: Easy Repairs
 
 One thing we immediately noticed after we opened up the instrument was this rod coming up from the pedal area just sitting loosely next to the hammers.
-![[/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/DisconnectedSosTop.jpg]]
+![/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/DisconnectedSosTop.jpg]
 
 Taking a look beneath the bottom panel, we saw that the rod was not inserted on top of a pedal connector:
-![[/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/DisconnectedSosBottom.jpg]]
+![/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/DisconnectedSosBottom.jpg]
 
 A little bit more fiddling around, and we discovered that this was connected to the middle Sostenuto pedal.
-![[/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/PianoPedals.png]]
+![/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/PianoPedals.png]
 *Labelled Diagram of Piano Pedals. [Image Source](https://www.pianoforte-music.com/wp-content/uploads/2021/07/pedals.jpeg)*
 
 On higher end pianos, like this one, the middle pedals have the Sostenuto effect, which is similar to the right/ sustain pedal except that it will only sustain the notes being held when the pedal is pressed, and will not hold notes played after it was initially trigger.
 
 > Small Tangent: after talking to a couple other pianists that also messed around with this piano in the past, none of us realized that the middle pedal was broken until we saw the disconnected pole inside. Given that most of us have never played a piano with a Sostenuto pedal, or have had to learn about it for repertoire pieces, we each just thought that the pedal was having it's intended effect of sustaining currently held notes and that our inability to hear any difference was the result of our aural inexperience. Once we fixed the mechanical issue, however, the pedal's intended effect became infinitely more apparent.
 
-![[/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/ConnectedSos.jpg]]
+![/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/ConnectedSos.jpg]
 *Photo of the Sostenuto rod reconnected and in place*
 
 ## Step 4: Less Easy Repairs
@@ -57,7 +57,7 @@ Before we opened it up, we thought that something might have happened to the str
 
 One of the things we quickly discovered was that the spring of the broken key was stretched significantly more than it's neighbors. In addition, when the note was being hit, it was not able to trigger the hammer like the notes around it.
 
-![[/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/AnnotatedSprings.png]]
+![/assets/images/2023-02-12-BASIS-Piano-Repair-Day1/AnnotatedSprings.png]
 *Misaligned Spring in Piano*
 
 We tried messing around with it for ~20 minutes, trying to squish and realign the spring and hammer back into place using a screwdriver to get into the tight spot, but we were unfortunately unable to fix it in the time we had that day.
