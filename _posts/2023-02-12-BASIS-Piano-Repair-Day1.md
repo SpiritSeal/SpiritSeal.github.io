@@ -68,4 +68,4 @@ We mostly focused on the low hanging fruit this week: repairs that were easy for
 
 Next week, we're planning on properly taking the hammers out of the instrument so that we can more easily get to and try to fix the broken note. And outside of that, the Tuning Hammers that my teacher ordered should be arriving around that time as well, so we'll also be retuning it as soon as we are done with these fixes.
 
-[^1]: In other words, it's a really, really nice piano-- easily the best I've ever been able to play on a semi-regular basis. Here's a recording of one I found on YouTube if you want to take a listen: https://youtu.be/Ke3tNM1w8ug
+<!-- [^1]: In other words, it's a really, really nice piano-- easily the best I've ever been able to play on a semi-regular basis. Here's a recording of one I found on YouTube if you want to take a listen: https://youtu.be/Ke3tNM1w8ug -->
