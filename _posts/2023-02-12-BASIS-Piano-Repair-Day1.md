@@ -1,7 +1,7 @@
 ---
-Title: "BASIS Piano Repair and Tuning: Day 1"
-Date: 2/4/23
-Description: Repairing and learning how to tune my school's piano.
+title: "BASIS Piano Repair and Tuning: Day 1"
+date: 2/12/23
+description: Repairing and learning how to tune my school's piano.
 permalink: "/basis-piano-repair-1/"
 ---
 
@@ -67,9 +67,6 @@ We tried messing around with it for ~20 minutes, trying to squish and realign th
 We mostly focused on the low hanging fruit this week: repairs that were easy for us to do quickly without much risk of accidentally messing up and damaging the piano. We've planned on meeting up on Thursdays after school to keep working on the piano until it's at least mostly back to it's former glory.
 
 Next week, we're planning on properly taking the hammers out of the instrument so that we can more easily get to and try to fix the broken note. And outside of that, the Tuning Hammers that my teacher ordered should be arriving around that time as well, so we'll also be retuning it as soon as we are done with these fixes.
-
----
-[^1]: In other words, it's a really, really nice piano-- easily the best I've ever been able to play on a semi-regular basis. Here's a recording of one in good repair that I found on YouTube if you want to take a listen: https://youtu.be/Ke3tNM1w8ug
 
 ---
 
