@@ -81,6 +81,7 @@
         "Steinberg"
     ],
     "markdownlint.config": {
+        "MD012": false,
         "MD026": false,
         "MD033": false
     }
