@@ -1,6 +1,6 @@
 ---
 title: "BASIS Piano Repair and Tuning: Day 1"
-date: 23/02/12
+# date: 23/2/12
 description: Repairing and learning how to tune my school's piano.
 permalink: "/basis-piano-repair-1/"
 ---
