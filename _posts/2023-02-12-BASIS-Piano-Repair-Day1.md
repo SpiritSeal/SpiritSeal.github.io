@@ -8,7 +8,8 @@ permalink: "/basis-piano-repair-1/"
 Hello everyone! Over the last six-ish years or so, I've been discovering my high school's seemingly ever-expanding volume of musical instruments and resources. Among these, is our small school's upright piano, currently located in the drama room (Room 115).
 
 
-It's a Steinway Upright Essex with beautiful, delicate-sounding highs accompanied by crisp, resonant bass and mids. If you are a pianist at BASIS Scottsdale, I highly recommend checking it out at some point in the future if you haven't already.[^1]
+It's a Steinway Upright Essex with beautiful, delicate-sounding highs accompanied by crisp, resonant bass and mids. If you are a pianist at BASIS Scottsdale, I highly recommend checking it out at some point in the future if you haven't already.
+<!-- [^1] -->
 
 Unfortunately, with our school's piano teacher having left almost two years ago, it's been left in a bit of a state of disrepair. Outside of being generally dusty and out of tune, the instrument also featured a broken Eb4 key and disconnected sostenuto pedal.
 
@@ -68,4 +69,4 @@ We mostly focused on the low hanging fruit this week: repairs that were easy for
 
 Next week, we're planning on properly taking the hammers out of the instrument so that we can more easily get to and try to fix the broken note. And outside of that, the Tuning Hammers that my teacher ordered should be arriving around that time as well, so we'll also be retuning it as soon as we are done with these fixes.
 
-[^1]: In other words, it's a really, really nice piano-- easily the best I've ever been able to play on a semi-regular basis. Here's a recording of one I found on YouTube if you want to take a listen: https://youtu.be/Ke3tNM1w8ug
+<!-- [^1]: In other words, it's a really, really nice piano-- easily the best I've ever been able to play on a semi-regular basis. Here's a recording of one I found on YouTube if you want to take a listen: https://youtu.be/Ke3tNM1w8ug -->
