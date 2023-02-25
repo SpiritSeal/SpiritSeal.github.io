@@ -53,7 +53,7 @@ Hello everyone! I just wanted to share the process I use to help teach people (s
 - There are a couple of other improv exercises that I've found to be pretty fun for experienced solo improvers, especially for helping me and a few of my friends get out of the destructive rut of "all of my improv is sounding like the same thing". I might make a post on this in the future if that sounds interesting.
 
 
-Other general notes:
+## Other general notes:
 
 - Don't hog the musical "space" <span style="font-size: .4em;">Ricky</span>. If this is really their first time improving, your job should primarily be to give them the full floor and try to accompany them to the best of your ability. Save the impressive solos and modulating riffs for a different occasion.
 - For Steps 1 and 2, you should really not be touching the keys or instructing them on how to play things on their instrument. Just let them play how they play so that (A.) You get a better idea of their genuine musical style and (B.) They feel more comfortable playing genuinely and relaxed around you. Especially for the latter, adding any level of stress or directed "task" to the situation will likely lead to more harm than good.
